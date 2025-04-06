@@ -14,7 +14,7 @@ This rule detects suspicious successful logins to WordPress (`wp-login.php`) **w
 - **Admin logins without `/mfa/verify` sequence**
 - **High-value target systems (e.g. Australian super accounts)**
 
-📄 [View Sigma Rule](sigma-rules/web/CVE-2024-7821-mfa-bypass.yml)
+📄 [View Sigma Rule](https://github.com/shanerwilson/sigma-rules/blob/main/web/CVE-2024-7821-mfa-bypass.yml)
 
 ---
 
