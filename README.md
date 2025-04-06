@@ -3,6 +3,10 @@
 Welcome to my custom Sigma rules, detection logic, and threat hunting content collection.  
 This repo is designed to share blue team tactics, especially those related to credential abuse, MFA bypass, and CVE-based detections.
 
+Thanks for checking out my work — let’s connect on detection engineering, threat hunting, or SOC workflows!
+
+#BlueTeam #ThreatHunting #SigmaRules #CyberSecurity #SOCAnalyst
+
 ---
 
 ## 🔍 Featured Rule: CVE-2024-7821 – MFA Bypass in WordPress Plugin
@@ -24,8 +28,3 @@ This rule detects suspicious successful logins to WordPress (`wp-login.php`) **w
 ```bash
 sigmac -t es-qs sigma-rules/web/CVE-2024-7821-mfa-bypass.yml
 
-
-
-👋 Thanks for checking out my work — let’s connect on detection engineering, threat hunting, or SOC workflows!
-
-#BlueTeam #ThreatHunting #SigmaRules #CyberSecurity #SOCAnalyst
