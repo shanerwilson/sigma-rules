@@ -11,6 +11,7 @@ Thanks for checking out my work — let’s connect on detection engineering, th
 
 ## 🔍 Featured Rule: CVE-2024-7821 – MFA Bypass in WordPress Plugin
 
+(Australian Super accounts hack 04/2025)
 This rule detects suspicious successful logins to WordPress (`wp-login.php`) **without MFA verification**, a key weakness exploited in [CVE-2024-7821](https://nvd.nist.gov/vuln/detail/CVE-2024-7821).
 
 ### 🧠 Detection Use Case:
